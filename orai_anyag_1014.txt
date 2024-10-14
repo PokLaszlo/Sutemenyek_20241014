@@ -1,5 +1,0 @@
-git:
-sutemenyek_20241014 repisitory
-cmd
-- git init
-- git add .
