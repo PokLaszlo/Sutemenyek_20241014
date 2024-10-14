@@ -1,0 +1,3 @@
+[submodule "Sutemenyek"]
+	path = Sutemenyek
+	url = https://github.com/SzoftTeszt/Sutemenyek.git
